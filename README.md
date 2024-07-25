@@ -1,7 +1,7 @@
 # Gameclub: Tic Tac Toe and Hangman
 This project features two engaging console games: Tic Tac Toe and Hangman. The program allows you to choose between these games and provides a simple, text-based interface to play them.
 
-Games
+# Games
 Tic Tac Toe
 A classic 3x3 grid game where players alternate placing their markers ('X' and 'O').
 The game checks for a winner or a draw after each move.
