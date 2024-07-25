@@ -19,25 +19,25 @@ This project features two engaging console games: **Tic Tac Toe** and **Hangman*
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/mini_gamezone.git
+    git clone https://github.com/sreejish05/Gameclub.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd mini_gamezone
+    cd Gameclub
     ```
 
 3. Compile the program using a C compiler, for example, `gcc`:
 
     ```bash
-    gcc -o gamezone gamezone.c
+    gcc -o game gameclub.c
     ```
 
 4. Run the compiled program:
 
     ```bash
-    ./gamezone
+    ./game
     ```
 
 5. Follow the on-screen instructions to choose and play a game.
